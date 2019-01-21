@@ -44,7 +44,7 @@ body {
 
 .bottom-container {
   font-family: 'Source Sans Pro', sans-serif;
-  font-size: 25px;
+  font-size: 20px;
   color: white;
   background-color: #222831;
   padding-top: 20px;
@@ -96,12 +96,12 @@ h3 {
 p {
   color: black;
   font-family: 'Source Sans Pro', sans-serif;
-  font-size: 25px;
+  font-size: 30px;
   text-align: justify;
 }
 
 .table {
   color: black;
   font-family: 'Source Sans Pro', sans-serif;
-  font-size: 25px;
+  font-size: 30px;
 }
