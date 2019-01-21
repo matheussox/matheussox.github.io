@@ -1,0 +1,107 @@
+body {
+  background-color: white;
+  margin: auto;
+  text-align: center;
+}
+
+.social-medias {
+  background-color: #222831;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  position: relative;
+}
+
+.profile {
+  margin-left: 15%;
+  margin-right: 15%;
+  background-color: white;
+  padding-top: 20px;
+
+}
+
+.icons {
+  height: 150px;
+  width: 150px;
+  border-radius: 60%;
+  top: 18px;
+}
+
+.top-container {
+  margin-left: 15%;
+  margin-right: 15%;
+  background-color: white;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.middle-container {
+  margin-left: 15%;
+  margin-right: 15%;
+  background-color: white;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.bottom-container {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 25px;
+  color: white;
+  background-color: #222831;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+a:link {
+  color: #f95759;
+  text-decoration: none;
+}
+
+a:visited {
+  /* visited link */
+  color: #eeeeee;
+  text-decoration: none;
+}
+
+a:hover {
+  /* mouse over link */
+  color: white;
+  text-decoration: none;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 45px;
+  color: #f95759;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 35px;
+  color: black;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+h3 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 30px;
+  color: black;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+p {
+  color: black;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 25px;
+  text-align: justify;
+}
+
+.table {
+  color: black;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 25px;
+}
